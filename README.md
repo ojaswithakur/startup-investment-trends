@@ -53,8 +53,8 @@ This project analyzes venture capital and private equity investments in Indian s
 
 1. Clone the repository:
    
-   git clone https://github.com/your-username/startup-investment-india.git
-   cd startup-investment-india
+   git clone https://github.com/ojaswithakur/startup-investment-trends.git
+   cd startup-investment-trends
 
 
 2. Run the notebook:
